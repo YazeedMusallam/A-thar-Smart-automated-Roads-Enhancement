@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"name": "abc",
+			"path": "../../abc"
+		},
+		{
+			"name": "dashtreme-master",
+			"path": "../../dashtreme-master/dashtreme-master"
+		},
+		{
+			"name": "yolov5-fastapi-27eef7d52cf72cda0c14856a745a8798d51d9383",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "yolov5-fastapi-27eef7d52cf72cda0c14856a745a8798d51d9383"
+	}
+}
